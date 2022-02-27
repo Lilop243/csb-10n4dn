@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://lilop243.github.io/csb-10n4dn/static/css/main.c01be337.chunk.css",
+    "main.js": "https://lilop243.github.io/csb-10n4dn/static/js/main.3ea2d46e.chunk.js",
+    "main.js.map": "https://lilop243.github.io/csb-10n4dn/static/js/main.3ea2d46e.chunk.js.map",
+    "runtime-main.js": "https://lilop243.github.io/csb-10n4dn/static/js/runtime-main.6adf3743.js",
+    "runtime-main.js.map": "https://lilop243.github.io/csb-10n4dn/static/js/runtime-main.6adf3743.js.map",
+    "static/js/2.8c84c990.chunk.js": "https://lilop243.github.io/csb-10n4dn/static/js/2.8c84c990.chunk.js",
+    "static/js/2.8c84c990.chunk.js.map": "https://lilop243.github.io/csb-10n4dn/static/js/2.8c84c990.chunk.js.map",
+    "index.html": "https://lilop243.github.io/csb-10n4dn/index.html",
+    "precache-manifest.19bb029f7f5ebcedc4d72cac6c0f6f34.js": "https://lilop243.github.io/csb-10n4dn/precache-manifest.19bb029f7f5ebcedc4d72cac6c0f6f34.js",
+    "service-worker.js": "https://lilop243.github.io/csb-10n4dn/service-worker.js",
+    "static/css/main.c01be337.chunk.css.map": "https://lilop243.github.io/csb-10n4dn/static/css/main.c01be337.chunk.css.map",
+    "static/js/2.8c84c990.chunk.js.LICENSE.txt": "https://lilop243.github.io/csb-10n4dn/static/js/2.8c84c990.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6adf3743.js",
+    "static/js/2.8c84c990.chunk.js",
+    "static/css/main.c01be337.chunk.css",
+    "static/js/main.3ea2d46e.chunk.js"
+  ]
+}
